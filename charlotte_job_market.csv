@@ -1,0 +1,201 @@
+industry,experience_level,job_type,salary_range,hiring_status
+Finance,Senior,Remote,$100k-$150k,Actively Hiring
+Construction,Entry Level,Full Time,$75k-$100k,Actively Hiring
+Healthcare,Mid Level,Full Time,$50k-$75k,Paused
+Education,Entry Level,Full Time,$100k-$150k,Paused
+Healthcare,Entry Level,Contract,$75k-$100k,Filled
+Healthcare,Entry Level,Part Time,$75k-$100k,Actively Hiring
+Technology,Senior,Contract,$100k-$150k,Paused
+Technology,Senior,Full Time,$75k-$100k,Paused
+Finance,Mid Level,Contract,$75k-$100k,Filled
+Technology,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Senior,Contract,$50k-$75k,Filled
+Construction,Mid Level,Full Time,Under $50k,Filled
+Healthcare,Mid Level,Full Time,$50k-$75k,Actively Hiring
+Finance,Senior,Full Time,$150k+,Actively Hiring
+Logistics,Mid Level,Contract,$50k-$75k,Actively Hiring
+Logistics,Mid Level,Part Time,$75k-$100k,Actively Hiring
+Technology,Senior,Contract,$150k+,Actively Hiring
+Healthcare,Entry Level,Full Time,$50k-$75k,Paused
+Technology,Mid Level,Remote,$50k-$75k,Actively Hiring
+Technology,Mid Level,Contract,$100k-$150k,Actively Hiring
+Logistics,Mid Level,Contract,$100k-$150k,Filled
+Technology,Mid Level,Full Time,$75k-$100k,Paused
+Technology,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Entry Level,Full Time,$75k-$100k,Actively Hiring
+Construction,Entry Level,Full Time,$50k-$75k,Actively Hiring
+Logistics,Mid Level,Full Time,$50k-$75k,Actively Hiring
+Technology,Entry Level,Contract,$75k-$100k,Cancelled
+Healthcare,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Technology,Entry Level,Part Time,$100k-$150k,Actively Hiring
+Education,Mid Level,Part Time,$50k-$75k,Cancelled
+Technology,Senior,Contract,$100k-$150k,Actively Hiring
+Healthcare,Mid Level,Full Time,$50k-$75k,Filled
+Technology,Mid Level,Full Time,$150k+,Actively Hiring
+Technology,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Logistics,Senior,Full Time,$75k-$100k,Actively Hiring
+Finance,Executive,Full Time,$100k-$150k,Actively Hiring
+Finance,Senior,Remote,$75k-$100k,Actively Hiring
+Education,Mid Level,Contract,Under $50k,Actively Hiring
+Technology,Mid Level,Full Time,$150k+,Actively Hiring
+Construction,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Construction,Senior,Contract,$100k-$150k,Actively Hiring
+Finance,Executive,Contract,$150k+,Cancelled
+Technology,Mid Level,Remote,$100k-$150k,Actively Hiring
+Logistics,Entry Level,Contract,$75k-$100k,Cancelled
+Logistics,Senior,Full Time,$100k-$150k,Actively Hiring
+Finance,Mid Level,Contract,$100k-$150k,Paused
+Healthcare,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Finance,Executive,Full Time,$150k+,Cancelled
+Healthcare,Entry Level,Full Time,$75k-$100k,Filled
+Healthcare,Senior,Full Time,$100k-$150k,Filled
+Finance,Executive,Full Time,$150k+,Actively Hiring
+Healthcare,Senior,Full Time,$75k-$100k,Cancelled
+Logistics,Senior,Full Time,$75k-$100k,Actively Hiring
+Technology,Mid Level,Full Time,$100k-$150k,Actively Hiring
+Technology,Senior,Remote,$150k+,Filled
+Logistics,Mid Level,Full Time,$75k-$100k,Paused
+Education,Mid Level,Part Time,$50k-$75k,Actively Hiring
+Technology,Senior,Remote,$150k+,Filled
+Finance,Mid Level,Contract,$75k-$100k,Actively Hiring
+Healthcare,Mid Level,Remote,$100k-$150k,Actively Hiring
+Technology,Senior,Contract,$100k-$150k,Actively Hiring
+Logistics,Entry Level,Part Time,$50k-$75k,Actively Hiring
+Construction,Senior,Full Time,$50k-$75k,Actively Hiring
+Healthcare,Mid Level,Full Time,Under $50k,Paused
+Finance,Entry Level,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Senior,Part Time,$50k-$75k,Paused
+Technology,Senior,Remote,$150k+,Filled
+Technology,Senior,Full Time,$150k+,Cancelled
+Construction,Senior,Full Time,$75k-$100k,Filled
+Logistics,Mid Level,Full Time,$50k-$75k,Paused
+Construction,Senior,Contract,Under $50k,Actively Hiring
+Finance,Executive,Part Time,$75k-$100k,Actively Hiring
+Finance,Executive,Full Time,$100k-$150k,Actively Hiring
+Logistics,Mid Level,Contract,$75k-$100k,Actively Hiring
+Technology,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Finance,Mid Level,Remote,$150k+,Actively Hiring
+Finance,Senior,Remote,$150k+,Filled
+Education,Mid Level,Part Time,$50k-$75k,Actively Hiring
+Finance,Senior,Contract,$100k-$150k,Filled
+Healthcare,Mid Level,Contract,$75k-$100k,Paused
+Healthcare,Entry Level,Part Time,$75k-$100k,Actively Hiring
+Healthcare,Mid Level,Full Time,$150k+,Filled
+Logistics,Mid Level,Contract,$50k-$75k,Filled
+Technology,Executive,Part Time,$100k-$150k,Actively Hiring
+Technology,Senior,Contract,$75k-$100k,Paused
+Logistics,Mid Level,Full Time,Under $50k,Filled
+Healthcare,Senior,Full Time,$75k-$100k,Actively Hiring
+Construction,Mid Level,Full Time,$50k-$75k,Paused
+Finance,Senior,Full Time,$75k-$100k,Filled
+Finance,Mid Level,Full Time,$100k-$150k,Filled
+Logistics,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Mid Level,Full Time,$75k-$100k,Cancelled
+Logistics,Mid Level,Full Time,$75k-$100k,Filled
+Finance,Senior,Full Time,$50k-$75k,Actively Hiring
+Technology,Mid Level,Remote,$100k-$150k,Actively Hiring
+Construction,Executive,Contract,$100k-$150k,Paused
+Healthcare,Entry Level,Part Time,$100k-$150k,Actively Hiring
+Finance,Senior,Remote,Under $50k,Paused
+Construction,Mid Level,Full Time,$100k-$150k,Paused
+Technology,Mid Level,Remote,$100k-$150k,Filled
+Technology,Executive,Contract,$100k-$150k,Actively Hiring
+Construction,Senior,Full Time,$75k-$100k,Filled
+Finance,Mid Level,Full Time,$100k-$150k,Filled
+Finance,Senior,Full Time,$100k-$150k,Actively Hiring
+Healthcare,Mid Level,Part Time,$100k-$150k,Cancelled
+Healthcare,Mid Level,Part Time,$50k-$75k,Paused
+Education,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Healthcare,Senior,Full Time,$75k-$100k,Paused
+Construction,Senior,Contract,$75k-$100k,Actively Hiring
+Healthcare,Entry Level,Full Time,$100k-$150k,Actively Hiring
+Technology,Senior,Full Time,$100k-$150k,Cancelled
+Technology,Mid Level,Full Time,$100k-$150k,Cancelled
+Construction,Mid Level,Full Time,$50k-$75k,Actively Hiring
+Logistics,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Logistics,Executive,Full Time,$50k-$75k,Paused
+Healthcare,Executive,Full Time,$75k-$100k,Filled
+Healthcare,Entry Level,Full Time,Under $50k,Actively Hiring
+Technology,Executive,Remote,$50k-$75k,Actively Hiring
+Finance,Senior,Full Time,$150k+,Actively Hiring
+Finance,Mid Level,Part Time,$150k+,Actively Hiring
+Technology,Entry Level,Part Time,$50k-$75k,Actively Hiring
+Finance,Mid Level,Full Time,$50k-$75k,Filled
+Logistics,Senior,Full Time,$50k-$75k,Paused
+Healthcare,Entry Level,Full Time,$100k-$150k,Filled
+Finance,Mid Level,Remote,$75k-$100k,Paused
+Finance,Senior,Contract,$100k-$150k,Actively Hiring
+Finance,Executive,Full Time,$75k-$100k,Filled
+Finance,Senior,Remote,$150k+,Filled
+Finance,Executive,Full Time,$150k+,Paused
+Technology,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Finance,Senior,Full Time,$100k-$150k,Paused
+Healthcare,Senior,Part Time,$75k-$100k,Actively Hiring
+Education,Mid Level,Part Time,$50k-$75k,Filled
+Logistics,Entry Level,Remote,$100k-$150k,Paused
+Technology,Senior,Full Time,$75k-$100k,Actively Hiring
+Construction,Senior,Part Time,$50k-$75k,Paused
+Logistics,Senior,Contract,$50k-$75k,Actively Hiring
+Finance,Senior,Full Time,$100k-$150k,Paused
+Finance,Senior,Full Time,$150k+,Filled
+Logistics,Mid Level,Full Time,$75k-$100k,Paused
+Technology,Senior,Full Time,Under $50k,Actively Hiring
+Technology,Senior,Remote,$75k-$100k,Actively Hiring
+Finance,Senior,Full Time,$150k+,Filled
+Finance,Senior,Contract,$75k-$100k,Filled
+Logistics,Mid Level,Full Time,$100k-$150k,Filled
+Technology,Senior,Contract,$100k-$150k,Actively Hiring
+Finance,Senior,Remote,$150k+,Filled
+Technology,Senior,Remote,$100k-$150k,Paused
+Healthcare,Executive,Contract,$75k-$100k,Actively Hiring
+Healthcare,Mid Level,Full Time,$50k-$75k,Actively Hiring
+Technology,Mid Level,Remote,$75k-$100k,Filled
+Finance,Executive,Remote,$150k+,Paused
+Finance,Senior,Contract,$100k-$150k,Actively Hiring
+Finance,Senior,Full Time,$100k-$150k,Filled
+Technology,Mid Level,Full Time,$100k-$150k,Paused
+Finance,Mid Level,Full Time,$100k-$150k,Paused
+Construction,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Education,Senior,Full Time,$75k-$100k,Cancelled
+Finance,Entry Level,Remote,$75k-$100k,Cancelled
+Construction,Entry Level,Full Time,$100k-$150k,Filled
+Technology,Senior,Remote,$100k-$150k,Actively Hiring
+Construction,Executive,Full Time,$100k-$150k,Actively Hiring
+Finance,Senior,Contract,$150k+,Filled
+Construction,Mid Level,Full Time,Under $50k,Paused
+Technology,Entry Level,Full Time,$75k-$100k,Actively Hiring
+Technology,Senior,Contract,$75k-$100k,Actively Hiring
+Finance,Senior,Contract,$150k+,Actively Hiring
+Logistics,Mid Level,Full Time,$75k-$100k,Cancelled
+Healthcare,Senior,Full Time,$75k-$100k,Actively Hiring
+Finance,Executive,Remote,$100k-$150k,Paused
+Healthcare,Mid Level,Part Time,$75k-$100k,Actively Hiring
+Education,Mid Level,Full Time,$50k-$75k,Actively Hiring
+Logistics,Mid Level,Full Time,$100k-$150k,Actively Hiring
+Finance,Mid Level,Full Time,$75k-$100k,Paused
+Logistics,Executive,Remote,$150k+,Actively Hiring
+Education,Senior,Full Time,Under $50k,Filled
+Logistics,Mid Level,Part Time,$75k-$100k,Paused
+Healthcare,Mid Level,Part Time,$100k-$150k,Actively Hiring
+Finance,Executive,Remote,$150k+,Actively Hiring
+Finance,Mid Level,Full Time,$75k-$100k,Actively Hiring
+Technology,Mid Level,Full Time,$100k-$150k,Actively Hiring
+Technology,Mid Level,Full Time,Under $50k,Actively Hiring
+Technology,Executive,Remote,$75k-$100k,Actively Hiring
+Healthcare,Mid Level,Full Time,$50k-$75k,Filled
+Logistics,Senior,Full Time,$100k-$150k,Filled
+Technology,Mid Level,Contract,$150k+,Filled
+Logistics,Senior,Full Time,Under $50k,Actively Hiring
+Construction,Senior,Full Time,$50k-$75k,Paused
+Technology,Senior,Remote,$100k-$150k,Paused
+Education,Entry Level,Full Time,$50k-$75k,Filled
+Technology,Senior,Full Time,$50k-$75k,Actively Hiring
+Finance,Senior,Remote,$50k-$75k,Paused
+Finance,Senior,Remote,$150k+,Actively Hiring
+Finance,Entry Level,Full Time,$75k-$100k,Paused
+Education,Senior,Full Time,Under $50k,Cancelled
+Technology,Mid Level,Full Time,$100k-$150k,Cancelled
+Technology,Executive,Remote,$150k+,Filled
+Logistics,Senior,Contract,$50k-$75k,Actively Hiring
