@@ -8,6 +8,10 @@ This tool simplifies the process of creating Sankey visualizations from tabular 
 
 The project was built to make flow-based data visualization more accessible for users who may not work directly with Python or Plotly.
 
+## Example Output
+
+![Interactive Sankey Diagram Example](sankey-example.png)
+
 ## Features
 
 * Excel and CSV data input
