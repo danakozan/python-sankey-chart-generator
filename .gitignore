@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+
+# Generated outputs
+*.html
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
