@@ -23,7 +23,8 @@ def load_data():
         except FileNotFoundError:
             print("\nFile not found. Please check the path and try again.")
         except Exception as e:
-            print(f"\nError loading file: {e}. Please try again.")
+            print(f"\nUnable to load the file: {e}")
+            print("Please check that the file is a valid Excel or CSV file and try again.")
 
 
 # ─────────────────────────────────────────────────
