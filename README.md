@@ -4,13 +4,13 @@ A self-service Python tool for transforming structured Excel data into interacti
 
 ## Overview
 
-This tool simplifies the process of creating Sankey visualizations from tabular data. Users can upload an Excel file, select the columns representing the source, target, and flow values, and generate an interactive Sankey diagram without manually writing visualization code.
+This tool simplifies the process of creating Sankey visualizations from tabular data. Users can provide an Excel or CSV file path, select the columns representing the source, target, and flow values, and generate an interactive Sankey diagram without manually writing visualization code.
 
 The project was built to make flow-based data visualization more accessible for users who may not work directly with Python or Plotly.
 
 ## Features
 
-* Excel data input
+* Excel and CSV data input
 * User-selected source, target, and value columns
 * Data processing with Pandas
 * Interactive Sankey visualizations with Plotly
